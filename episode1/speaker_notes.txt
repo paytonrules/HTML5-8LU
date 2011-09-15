@@ -1,0 +1,63 @@
+=== Welcome.
+HTML5 Game Development with JavaScript is my 8LU.  
+Note I said JavaScript so you'll have to go ahead and learn it, no Coffee Script and no ClojureScript.
+===
+
+=== Why?  
+HTML5 is the future of independent game development.
+  - Once upon 
+  - SimCity story.
+
+- Why is HTML5 important.  
+- Why does it matter for games.
+- Why 
+1) HTML5 is the future of independent game development.  
+  a) Authority
+  - Said this about iPhone
+  - And XNA
+  - Predicted nobody needed a double-speed CD-ROM
+  - Proclaimed Reality TV was just a fad.
+  
+Predicted Reality TV was just a fad.
+
+
+Why the HTML5 presenetation?
+
+Once upon a time games were made by single people, or small teams.  SimCity, Commander Keen, the Kings Quest series, etc.  I once worked with Bob Dinnerman of F/A-18 Intercepter and Discs of Tron fame.  These games inspired legions of little kids to decide that one day they too wanted to make games.  And for a long time, they did.  They formed their own little bands of friends and they made games, but eventually the games started to cost too much.  Suddenly there were producers and deadlines and E3 demos and angry wives of EA developers writing blogs.  An indepndent game developer writing Kaboom! in 6k just wasn't possible anymore.
+
+But people still tried.  Anybody play Minecraft?  Made by one guy, in Java, had 13,342,369 downloads.  It can be done, but it sure ain't easy.  In Java.  With 3D graphics.  But what if you could make a Flash game, only without the side effect of using Flash.  What if you could make a game cheaply, with one or two friends, in a language and platform you understand.  Indeed you understand it better than game developers who make games in C++ and still think of JavaScript as a toy language.  You don't have to compete with EA, you don't even have to compete, you can have a hobby and play.  Along the way you can get better at JavaScript too.  Is that something you'd be interested in?
+
+Yes I believe HTML5 & JavaScript are the future of independent game development.  It's cheaper to do than any of the alternatives (such as XNA, Java, or ugggh Flash), easier to deploy, easist to write for, and probably the most fun.  In fact I believe we are entering a new golden age of indie game development.  SimCity, Civilization, Minecraft, these are some of the most innovative games of all time, and NONE would be made in a big studio.  No studios make shoot-em ups and sequels.  And they treat their dev's like shit.
+
+HTML5 - the elements that kill Flash.
+
+* Canvas
+The canvas is gonna suck.  Remember when FLash became popular?  And every web site had a stupid loading screen before it crashed.  Yeah we're headed for that but I don't really blame the sites.  You see the Canvas is really cool!  We'll spend the majority of our time today in the Canvas API.  
+
+* Audio
+The audio element is for playing music and sound effects. Duh.
+
+* Local Storage
+Saving Games, and state can be done with Local Storage.  How many of you play Angry Birds on your laptop on the train.  COLIN PUT YOUR HAND UP.
+
+* Geolocation
+Imaging a game that takes into account where you are.  We won't touch on this - but it's really frakking cool!
+
+Other Game Stuff to Know
+* Game Loop
+* Innnnput
+* Get good at JavaScript
+  * If you don't mention JavaScript the good parts when you give a talk on JavaScript, Douglas Crockford dies a little inside.
+
+= Homework = 
+Once upon a time we all got homework from 8LU's and we all turned it in.  I used to brag about this when others turned it in, I'd say "If I have time anybody does."  Then one day Joe gave a talk.  And the homework was realllly hard cause it had all these confusing parenthesis.  And I missed it.  And some of you did.  And that gave me permission to miss a lot of homework.
+
+So you see it's your fault I don't do the homework.
+
+So in an effort to get you LAZY JERKS doing the homework I've decided to hold a contest.  Your homework is to fork the game above and add one feature from the list below.  Or two.  Or three.  You see whomever does the best job gets 3 beers on me.
+
+Oh and I haven't forgotten the designers.  See these devs can't really draw.  Your job is to create a character for the hero of this game.  Whomever has the best one, gets the other 3 beers.
+
+
+== Neat Tidbit ==
+Molyneux - creator of Populous and Fable made a game called Entrepreneur.  Molyneux published the game himself in 1984 by duplicating hundreds of tapes on two Tandy Corporation recorders.
