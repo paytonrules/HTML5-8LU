@@ -32,7 +32,15 @@ Yes I believe HTML5 & JavaScript are the future of independent game development.
 HTML5 - the elements that kill Flash.
 
 * Canvas
-The canvas is gonna suck.  Remember when FLash became popular?  And every web site had a stupid loading screen before it crashed.  Yeah we're headed for that but I don't really blame the sites.  You see the Canvas is really cool!  We'll spend the majority of our time today in the Canvas API.  
+The canvas is gonna suck.  Remember when Flash became popular?  And every web site had a stupid loading screen before it crashed.  Yeah we're headed for that but I don't really blame the sites.  You see the Canvas is really cool!  We'll spend the majority of our time today in the Canvas API.  
+
+The Canvas is just a rectangle where you can draw whatever you want.  
+** Explain coordinate system
+** Explain Context
+** Explain things you can draw like lines, text, and images
+*** Image drawing uses painters algorithm
+*** Explain waiting for loading as well with load and canplaythrough bindings
+*** State Based!
 
 * Audio
 The audio element is for playing music and sound effects. Duh.
@@ -46,6 +54,7 @@ Imaging a game that takes into account where you are.  We won't touch on this - 
 Other Game Stuff to Know
 * Game Loop
 * Innnnput
+** Keys have to be bound to the document element
 * Get good at JavaScript
   * If you don't mention JavaScript the good parts when you give a talk on JavaScript, Douglas Crockford dies a little inside.
 
@@ -61,3 +70,7 @@ Oh and I haven't forgotten the designers.  See these devs can't really draw.  Yo
 
 == Neat Tidbit ==
 Molyneux - creator of Populous and Fable made a game called Entrepreneur.  Molyneux published the game himself in 1984 by duplicating hundreds of tapes on two Tandy Corporation recorders.
+
+== Things for Eskimo ==
+* Position consistently at center
+* Bounding boxes with rotation

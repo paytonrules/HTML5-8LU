@@ -1,0 +1,3 @@
+[submodule "Boberoids"]
+	path = Boberoids
+	url = https://github.com/paytonrules/Boberoids
