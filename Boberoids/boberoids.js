@@ -1,12 +1,10 @@
-
-
 $(function() {
 
   // Game Over
   // Music
   // Effects
 
-  var Boberoids = (function() {
+  Boberoids = (function() {
     var context,
         spaceBackground,
         player,
